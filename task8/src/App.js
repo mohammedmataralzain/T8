@@ -1,5 +1,4 @@
 
-// import Counter from './counter/Counter';
 import Counters from './pages/Counters';
 import './App.css';
 
